@@ -1,4 +1,4 @@
-# recommendation-system
+# Recommendation-system
 
 
  *COMPANY*: CODTECH IT SOLUTIONS
